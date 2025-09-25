@@ -1,5 +1,3 @@
-import org.w3c.dom.ls.LSInput;
-
 void main() {
     System.out.println("Multiplication table of 2-9:");
     for (int i = 1; i <= 9; i++) {
